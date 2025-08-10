@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeshis" alt="jeshis" /></a> </p>
 
-- 👯 I’m looking to collaborate on **Network and Cybersecurity**
+- 👯 I’m looking to collaborate on **Cybersecurity and Network**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
