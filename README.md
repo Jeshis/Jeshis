@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeshis Rasailee</h1>
-<h3 align="center">Exploring Network | Cybersecurity | Linux | DevOps </h3>
+<h3 align="center">Exploring Cybersecurity |  Network | Linux | DevOps </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeshis&label=Profile%20views&color=00a8e8&style=flat" alt="jeshis" /> </p>
 
